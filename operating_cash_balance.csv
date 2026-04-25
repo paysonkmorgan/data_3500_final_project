@@ -1,0 +1,101 @@
+record_date,account_type,open_today_bal,close_today_bal,record_fiscal_year
+2005-10-03,Federal Reserve Account,4381,5448,2006
+2005-10-03,Tax and Loan Note Accounts (Table V),31300,9295,2006
+2005-10-04,Federal Reserve Account,5448,4976,2006
+2005-10-04,Tax and Loan Note Accounts (Table V),9295,4555,2006
+2005-10-05,Federal Reserve Account,4976,4786,2006
+2005-10-05,Tax and Loan Note Accounts (Table V),4555,6836,2006
+2005-10-06,Federal Reserve Account,4786,5338,2006
+2005-10-06,Tax and Loan Note Accounts (Table V),6836,13779,2006
+2005-10-07,Federal Reserve Account,5338,4708,2006
+2005-10-07,Tax and Loan Note Accounts (Table V),13779,10480,2006
+2005-10-11,Federal Reserve Account,4708,4071,2006
+2005-10-11,Tax and Loan Note Accounts (Table V),10480,11328,2006
+2005-10-12,Federal Reserve Account,4071,5265,2006
+2005-10-12,Tax and Loan Note Accounts (Table V),11328,2511,2006
+2005-10-13,Federal Reserve Account,5265,4766,2006
+2005-10-13,Tax and Loan Note Accounts (Table V),2511,5200,2006
+2005-10-14,Federal Reserve Account,4766,4558,2006
+2005-10-14,Tax and Loan Note Accounts (Table V),5200,4627,2006
+2005-10-17,Federal Reserve Account,4558,4282,2006
+2005-10-17,Tax and Loan Note Accounts (Table V),4627,25052,2006
+2005-10-18,Federal Reserve Account,4282,4697,2006
+2005-10-18,Tax and Loan Note Accounts (Table V),25052,22447,2006
+2005-10-19,Federal Reserve Account,4697,4469,2006
+2005-10-19,Tax and Loan Note Accounts (Table V),22447,22383,2006
+2005-10-20,Federal Reserve Account,4469,5301,2006
+2005-10-20,Tax and Loan Note Accounts (Table V),22383,25599,2006
+2005-10-21,Federal Reserve Account,5301,5324,2006
+2005-10-21,Tax and Loan Note Accounts (Table V),25599,24040,2006
+2005-10-24,Federal Reserve Account,5324,4550,2006
+2005-10-24,Tax and Loan Note Accounts (Table V),24040,26014,2006
+2005-10-25,Federal Reserve Account,4550,5489,2006
+2005-10-25,Tax and Loan Note Accounts (Table V),26014,21804,2006
+2005-10-26,Federal Reserve Account,5489,4727,2006
+2005-10-26,Tax and Loan Note Accounts (Table V),21804,19891,2006
+2005-10-27,Federal Reserve Account,4727,5484,2006
+2005-10-27,Tax and Loan Note Accounts (Table V),19891,28639,2006
+2005-10-28,Federal Reserve Account,5484,4742,2006
+2005-10-28,Tax and Loan Note Accounts (Table V),28639,36665,2006
+2005-10-31,Federal Reserve Account,4742,5712,2006
+2005-10-31,Tax and Loan Note Accounts (Table V),36665,34999,2006
+2005-11-01,Federal Reserve Account,5712,4950,2006
+2005-11-01,Tax and Loan Note Accounts (Table V),34999,19167,2006
+2005-11-02,Federal Reserve Account,4950,4499,2006
+2005-11-02,Tax and Loan Note Accounts (Table V),19167,22956,2006
+2005-11-03,Federal Reserve Account,4499,3575,2006
+2005-11-03,Tax and Loan Note Accounts (Table V),22956,11122,2006
+2005-11-04,Federal Reserve Account,3575,5030,2006
+2005-11-04,Tax and Loan Note Accounts (Table V),11122,7414,2006
+2005-11-07,Federal Reserve Account,5030,4967,2006
+2005-11-07,Tax and Loan Note Accounts (Table V),7414,7421,2006
+2005-11-08,Federal Reserve Account,4967,5994,2006
+2005-11-08,Tax and Loan Note Accounts (Table V),7421,2347,2006
+2005-11-09,Federal Reserve Account,5994,5388,2006
+2005-11-09,Tax and Loan Note Accounts (Table V),2347,3881,2006
+2005-11-10,Federal Reserve Account,5388,4618,2006
+2005-11-10,Tax and Loan Note Accounts (Table V),3881,13375,2006
+2005-11-14,Federal Reserve Account,4618,5090,2006
+2005-11-14,Tax and Loan Note Accounts (Table V),13375,18973,2006
+2005-11-15,Federal Reserve Account,5090,3675,2006
+2005-11-15,Tax and Loan Note Accounts (Table V),18973,810,2006
+2005-11-16,Federal Reserve Account,3675,4416,2006
+2005-11-16,Tax and Loan Note Accounts (Table V),810,2815,2006
+2005-11-17,Federal Reserve Account,4416,5051,2006
+2005-11-17,Tax and Loan Note Accounts (Table V),2815,12926,2006
+2005-11-18,Federal Reserve Account,5051,5469,2006
+2005-11-18,Tax and Loan Note Accounts (Table V),12926,11029,2006
+2005-11-21,Federal Reserve Account,5469,5049,2006
+2005-11-21,Tax and Loan Note Accounts (Table V),11029,12887,2006
+2005-11-22,Tax and Loan Note Accounts (Table V),12887,7477,2006
+2005-11-22,Federal Reserve Account,5049,5082,2006
+2005-11-23,Federal Reserve Account,5082,4162,2006
+2005-11-23,Tax and Loan Note Accounts (Table V),7477,544,2006
+2005-11-25,Federal Reserve Account,4162,5685,2006
+2005-11-25,Tax and Loan Note Accounts (Table V),544,6406,2006
+2005-11-28,Federal Reserve Account,5685,5518,2006
+2005-11-28,Tax and Loan Note Accounts (Table V),6406,8714,2006
+2005-11-29,Federal Reserve Account,5518,4265,2006
+2005-11-29,Tax and Loan Note Accounts (Table V),8714,6254,2006
+2005-11-30,Federal Reserve Account,4265,4634,2006
+2005-11-30,Tax and Loan Note Accounts (Table V),6254,1355,2006
+2005-12-01,Federal Reserve Account,4634,4852,2006
+2005-12-01,Tax and Loan Note Accounts (Table V),1355,11221,2006
+2005-12-02,Federal Reserve Account,4852,5036,2006
+2005-12-02,Tax and Loan Note Accounts (Table V),11221,6809,2006
+2005-12-05,Federal Reserve Account,5036,4914,2006
+2005-12-05,Tax and Loan Note Accounts (Table V),6809,5523,2006
+2005-12-06,Federal Reserve Account,4914,4573,2006
+2005-12-06,Tax and Loan Note Accounts (Table V),5523,709,2006
+2005-12-07,Federal Reserve Account,4573,5076,2006
+2005-12-07,Tax and Loan Note Accounts (Table V),709,2705,2006
+2005-12-08,Federal Reserve Account,5076,6385,2006
+2005-12-08,Tax and Loan Note Accounts (Table V),2705,3981,2006
+2005-12-09,Federal Reserve Account,6385,5468,2006
+2005-12-09,Tax and Loan Note Accounts (Table V),3981,4647,2006
+2005-12-12,Federal Reserve Account,5468,5684,2006
+2005-12-12,Tax and Loan Note Accounts (Table V),4647,9665,2006
+2005-12-13,Federal Reserve Account,5684,4308,2006
+2005-12-13,Tax and Loan Note Accounts (Table V),9665,4179,2006
+2005-12-14,Tax and Loan Note Accounts (Table V),4179,7546,2006
+2005-12-14,Federal Reserve Account,4308,4990,2006
